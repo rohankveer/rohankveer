@@ -28,6 +28,7 @@
   <a href="https://linkedin.com/in/rohan-veer-41493570/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-veer-41493570" height="30" width="40" /></a>&nbsp
   <a href="https://stackoverflow.com/users/4497540/rohan-veer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rohan-veer" height="30" width="40" /></a>&nbsp
   <a href="https://www.hackerrank.com/rohanveer1989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohanveer1989" height="30" width="40" /></a>&nbsp
+  <a href="https://profiles.wordpress.org/rohanveer/#content-plugins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="rohanveer" height="30" width="40" /></a>&nbsp
 </p>
 <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohankveer&show_icons=true&locale=en&layout=compact" alt="rohankveer" /></p>
